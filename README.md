@@ -3,7 +3,7 @@
 <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B3604463061">레트로의 유니티 게임 프로그래밍 에센스</a> 교재에 나온 예제를 클론코딩 하면서 저만의 컨텐츠를 추가해 만든 게임 프로젝트 입니다.  
 <a href="https://github.com/IJEMIN/Unity-Programming-Essence-2021">예제 깃허브</a>  
 
-프로젝트 진행 기간 : 2022.05 \~ 2022.06
+프로젝트 진행 기간 : 2022.05 \~ 2022.06  
 
 # 사용 기술 및 환경
 Unity (2020.3.30f1), C#
